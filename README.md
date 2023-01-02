@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-a first year computer science student at the [University of Toronto](https://www.utoronto.ca/#jump-to-inner)
+a computer science student at the [University of Toronto](https://www.utoronto.ca/#jump-to-inner)
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexrosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-rosen-7152281b7/)](https://www.linkedin.com/in/alex-rosen-7152281b7/)
 [![Medium Badge](https://img.shields.io/badge/-@alexanderrosen45-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@alexanderrosen45)](https://medium.com/@alexanderrosen45)
