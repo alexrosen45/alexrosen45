@@ -4,5 +4,3 @@
 [![Personal Website Badge](https://img.shields.io/static/v1?label=&message=alexrosen.ca&color=yellow)](alexrosen.ca)
 
 a computer science student at the [University of Toronto](https://www.utoronto.ca/#jump-to-inner)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrosen45)](https://github.com/anuraghazra/github-readme-stats)
