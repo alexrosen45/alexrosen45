@@ -1,3 +1,3 @@
-Hi there, I'm Alex 👋 a computer science student at the [University of Toronto](https://www.utoronto.ca/#jump-to-inner)
+Hi there, I'm Alex 👋 a researcher at [Autodesk](https://www.research.autodesk.com)
 
 
